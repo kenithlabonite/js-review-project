@@ -1,3 +1,3 @@
-# JavaScript Review Project by write_your_full_name
+# JavaScript Review Project by Kenith M. Labonite
 
 Practicing the git workflow
